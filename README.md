@@ -1,6 +1,6 @@
 ### Olá 👋
 
-📚 Estudando HTML, CSS, PHP e Python.
+📚 Estudando HTML, CSS, JavaScript e Python.
 
 <div> 
   <a href="https://instagram.com/hpavelar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
